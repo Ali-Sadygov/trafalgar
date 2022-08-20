@@ -1,0 +1,306 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+.col {
+    box-sizing: border-box;
+    width: 100%;
+}
+.container {
+    width: 100%!important;
+    margin: 0px auto!important;
+}
+.r1 {
+    padding: 20px 0px;
+}
+.logo {
+    margin: 5px 0px;
+}
+.ul1 {
+    display: flex;
+    text-align: center;
+    float: right;
+}
+.li1{
+    color: #1F1534;
+    margin: 0px 15px;
+    line-height: 2.5;
+}
+.li10 {
+    font-weight: 700;
+}
+.button {
+    background: #458FF6;
+border-radius: 55px;
+color: white;
+border: solid 1px #458FF6;
+font-size: 14px;
+width: 150px;
+height: 38px;
+}
+.ppp {
+    color: #7D7987;
+    margin: 20px 0px 35px 0px;
+}
+.sixma {
+    padding-right: 100px!important; 
+    padding-top: 100px;
+}
+.sekil1 {
+    height: 490px;
+}
+.sag {
+    padding-left: 35px!important;
+}
+.h2 {
+    padding: 135px 0px 16px 0px;
+    text-align: center;
+}
+.kubik {
+    background-color: black;
+    width: 50px;
+    border: solid 1px black;
+    margin: 0% auto;
+    box-shadow: 0 0 1px black;
+}
+.p2p {
+    text-align: center;
+    color: #7D7987;
+    padding: 25px 145px 0px 145px;
+}
+.frame, .grage, .consultation, .info, .care, .tracking {
+    border-radius: 20px;
+    box-shadow: 10px 40px 50px 0px #E5E9F666;
+    width: 350px;
+    padding: 35px 45px 35px 30px;
+    margin-bottom: 25px;
+    background-color: white;
+}
+.tracking {
+    height: 322px;
+}
+.grage {
+    padding: 35px 65px 35px 30px!important;
+}
+.frames, .cares{
+    width: 87px;
+    height: 85px;
+}
+.bash, .grg, .con, .inf, .car, .trac {
+    font-weight: 700;
+    font-size: 25px;
+    padding-top: 22px;
+}
+.alt, .gag, .consul, .infoo, .caree, .traac{
+    color: #7D7987;
+}
+.grages, .consultations, .infos, .trackings{
+    width: 60px;
+    height: 85px;
+}
+.zx, .xz {
+    color: #458FF6;
+    border: 2px solid #458FF6;
+    border-radius: 55px;
+    background-color: white;
+    width: 200px;
+    height: 55px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.xz {
+    margin-top: 25px;
+}
+.zx {
+    margin: 30px 455px;
+}
+.mn {
+    margin-top: 13px!important;
+    position: relative;
+    display: inline;
+}
+.sekils{
+    width: 500px;
+    height: 420px;
+}
+.ggg, .nnn {
+    font-size: 40px;
+    font-weight: 700;
+}
+.nnn {
+    padding: 30px 150px 0px 0px;
+}
+.kubik2 {
+    background-color: black;
+    width: 60px;
+    border-radius: 5px;
+    height: 2px;
+    margin: 35px 0px 30px 0px;
+}
+.gh, .ty {
+    color: #7D7987;
+    font-size: 18px;
+    padding-right: 170px;
+    font-weight: 420;
+}
+.sel {
+    width: 550px;
+    height: 440px;
+}
+.absolute {
+    position: absolute;
+}
+.ssss {
+    position: relative;
+    display: inline;
+    margin-left: -45px;
+}
+.mmm {
+    margin-bottom: 140px;
+}
+.kkk {
+    padding: 50px 0px 80px 0p;
+    margin: 140px 0px;
+}
+.enli {
+    height: 400px;
+    width: 100%;
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    border-radius: 25px;
+    box-sizing: border-box;
+}
+.qolova {
+    color: white;
+    font-size: 45px;
+    margin: 35px 250px;
+}
+.enlii {
+    background-color: rgb(255, 255, 255);
+    width: 80px;
+    border-radius: 5px;
+    height: 2px;
+    margin: 25px auto;
+}
+.qwe {
+    border-radius: 100%;
+    border: solid 4px white;
+    float: left;
+    margin-left: 70px;
+    margin-right: 25px;
+}
+.addd {
+    font-size: 25px;
+    color: white;
+    font-weight: 500;
+    margin: 30px 0px 5px 0px;
+}
+.asd {
+    font-size: 19px;
+    color: white;
+    font-weight: 300
+}
+.altyazi {
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    padding-right: 155px;
+}
+.asagi {
+    font-size: 35px;
+    text-align: center;
+    font-weight: 500;
+}
+.asaqi {
+    width: 50px;
+    height: 3px;
+    background-color: black;
+    margin: 30px auto;
+}
+.son1, .son2, .son3 {
+    box-shadow: 10px 40px 50px 0px #E5E9F666;
+    height: 500px;
+    width: 350px;
+    border: solid 2px rgb(255, 255, 255);
+    position: relative;
+    border-radius: 20px;
+}
+.sons1, .sons2, .sons3 {
+    position: absolute;
+    width: 100%;
+    height: 220px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.sonyazi, .sonyazi2, .sonyazi3 {
+    font-size: 25px;
+    font-weight: 600;
+    margin: 240px 20px 0px 20px;
+}
+.lll, .lll2, .lll3 {
+    color: #7D7987;
+    margin: 17px 20px 15px 20px;
+    font-size: 20px;
+}
+.a, .a2, .a3 {
+    color:#4089ED;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 0px 12px 0px 20px;
+    font-weight: 500;
+}
+.axirinci {
+    padding: 30px 0px 100px 0px;
+}
+footer {
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    height: 450px;
+}
+.balaca {
+    height: 100%;
+}
+.sukurs {
+    margin: 100px 0px 0px 80px;
+}
+.sukur {
+    font-size: 25px;
+    color: white;
+    float: right;
+    margin: 102px 220px 0px -50px;
+}
+.sukurp, .scs {
+    color: white;
+    font-size: 20px;
+    font-weight: 200;
+    margin: 15px 0px 60px 80px;
+}
+.qaz {
+    border: solid 1px red;
+    width: 40px;
+}
+.scs {
+    font-size: 18px!important;
+}
+.hg {
+    margin-right: 25px;
+    padding-left: 30px;
+}
+.sxz {
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+    margin-top: 102px;
+    padding-left: 32px;
+}
+.oli {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    color: white;
+    font-weight: 100;
+    line-height: 1.7;
+}
+.nm {
+    padding-top: 220px;
+}
